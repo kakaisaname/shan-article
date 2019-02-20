@@ -152,8 +152,8 @@ export default {
           .item-desc
               padding-top 3px
               line-height 15px
-              font-size 12px
-              color #99FF99
+              font-size 13px
+              color #606060
               ellipsis()
         // .item-button
             // float left
