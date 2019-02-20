@@ -50,7 +50,8 @@ export default {
       items: [
         {
         //   image: 'http://118.24.61.194:8089/first.jpeg'
-          image: 'http://118.24.61.194:8089/articlefirst.jpg'
+          // image: 'http://118.24.61.194:8089/articlefirst.jpg'
+          image: '//webapp.didistatic.com/static/webapp/shield/cube-ui-examples-slide02.png'
         },
         {
         //   image: 'http://118.24.61.194:8089/second.jpeg'
