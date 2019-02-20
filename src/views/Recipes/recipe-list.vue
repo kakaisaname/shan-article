@@ -153,7 +153,7 @@ export default {
               padding-top 3px
               line-height 15px
               font-size 12px
-              color #A9A9A9 
+              color #383838
               ellipsis()
         // .item-button
             // float left
