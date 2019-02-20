@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import './cube-ui'
 import App from './App.vue'
-import router from './router'
 import store from './store'
 import {
   /* eslint-disable no-unused-vars */
@@ -26,6 +25,7 @@ Vue.use(Toast)
 Vue.use(Picker)
 Vue.use(Scroll)
 Vue.use(Slide)
+import router from './router'
 // Vue.use(Message)  去掉，不然进入答题就会有消息（空的）
 Vue.config.productionTip = false
 
