@@ -3,8 +3,8 @@ export default {
         {
           'url': 'http://www.jianshu.com/p/988c625fd013',
           'pic_name': '15157377890101.jpg',
-          'name':'减脂中餐建议（必看）',
-          'description':'减脂中餐建议及指导',
+          'name':'减脂早餐建议（必看）',
+          'description':'减脂早餐建议及指导',
         },{
             'url': 'http://www.jianshu.com/p/d1d29a9eeca6',
             'pic_name': '1515737815QQ图片20180109201547.png',
@@ -44,10 +44,10 @@ export default {
     ],
     step:[
         {
-            'url': 'https://www.jianshu.com/p/d5a06c61dd91',
-            'pic_name': '1523782122微信图片_20180413112450.jpg',
-            'name':'减脂中餐建议（必看）',
-            'description':'减脂中餐建议及指导',
+            'url': 'https://www.jianshu.com/p/9e88ca2a7e38',
+            'pic_name': '1515737917timg (1).jpg',
+            'name':'优秀减脂餐图片集锦',
+            'description':'要想减肥好，美食少不了。',
         }
     ],
     theory:[
