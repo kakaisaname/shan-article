@@ -147,12 +147,13 @@ export default {
           text-align left //加这个，不加这个的话两行字不对齐
           .item-title
               line-height 20px
-              font-size 12px;
+              font-size 16px;
               ellipsis()
           .item-desc
+              padding-top 3px
               line-height 15px
-              font-size 10px
-              color #ccc
+              font-size 12px
+              color #A9A9A9 
               ellipsis()
         // .item-button
             // float left
