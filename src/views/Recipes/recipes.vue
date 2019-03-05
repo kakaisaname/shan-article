@@ -138,5 +138,6 @@ export default {
     .wenzhang{
         background-color:white;
     }
+    img { height: auto; width: auto\9; width:100%; }
 </style>
 

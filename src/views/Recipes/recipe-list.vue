@@ -9,7 +9,9 @@
       <ul class="match-inner">
         <li v-for="(item, index) in recipeList" :key="index" class="match-item" @click="lookDetails(item.url)">
           <!-- <a href="http://www.baidu.com">   -->
-            <img :src="imgUrlPrefix+item.pic_name" alt="" class="item-img" >
+            <!-- <img :src="imgUrlPrefix+item.pic_name" alt="" class="item-img" > -->
+            <!-- <img src="../../../public/1-1.jpg" alt="" class="item-img" > -->
+            <img :src="item.pic_name" alt="" class="item-img" >
             <div class="item-info">
                 <div class="item-float">
                     <p class="item-title">{{ item.name }}</p>
